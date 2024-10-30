@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: گالری آنلاین عکس GM3\n"
+"POT-Creation-Date: 2018-03-28 08:37+0430\n"
+"PO-Revision-Date: 2018-03-28 08:37+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: gm3.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gm3.php:27
+msgid "Photo Gallery of GM3"
+msgstr "گالری عکس GM3"
+
+#: gm3.php:33
+msgid "My pictures on GM3"
+msgstr "عکس های  من در GM3"
+
+#: gm3.php:144
+msgid "email"
+msgstr "ایمیل"
+
+#: gm3.php:145
+msgid "Enter your email address"
+msgstr "آدرس ایمیل خود را وارد کنید"
+
+#: gm3.php:146 gm3.php:147
+msgid "password"
+msgstr "رمزعبور"
+
+#: gm3.php:148
+msgid "Connection"
+msgstr "اتصال"
+
+#: gm3.php:154
+msgid "Register"
+msgstr "ثبت نام"
+
+#: gm3.php:155
+msgid "forget password"
+msgstr "فراموشی رمز عبور"
+
+#: gm3.php:408
+msgid "Select all"
+msgstr "انتخاب همه "
+
+#: gm3.php:416
+msgid "Upload new photo"
+msgstr "آپلود عکس جدید "
+
+#: gm3.php:448
+msgid "Type add photo"
+msgstr "نوع وارد کردن عکس"
+
+#: gm3.php:458
+msgid "Add link"
+msgstr "اضافه کردن لینک"
+
+#: gm3.php:460
+msgid "Insert image type"
+msgstr "نوع درج تصویر "
+
+#: gm3.php:461
+msgid "Each"
+msgstr "تک تک"
+
+#: gm3.php:463
+msgid "gallery"
+msgstr "گالری"
+
+#: gm3.php:464
+msgid "slide"
+msgstr "اسلاید"
+
+#: gm3.php:469
+msgid "Picture shape"
+msgstr "شکل تصویر"
+
+#: gm3.php:470
+msgid "Rounded corners"
+msgstr "گوشه های گرد"
+
+#: gm3.php:471
+msgid "The circle"
+msgstr "دایره ای"
+
+#: gm3.php:472
+msgid "Framed"
+msgstr "قاب دار"
+
+#: gm3.php:473
+msgid "Card"
+msgstr "کارت"
+
+#: gm3.php:474
+msgid "Photo with text"
+msgstr "عکس با نوشته"
+
+#: gm3.php:475
+msgid "Responsive or responsive"
+msgstr "ریسپانسیو یا واکنش گرا"
+
+#: gm3.php:476 gm3.php:672
+msgid "Transparency"
+msgstr "شفافیت"
+
+#: gm3.php:477 gm3.php:697
+msgid "black and white"
+msgstr "سیاه و سفید "
+
+#: gm3.php:478
+msgid "Brown"
+msgstr "قهوه ای "
+
+#: gm3.php:486
+msgid "width"
+msgstr "طول"
+
+#: gm3.php:488
+msgid "Frame type"
+msgstr "نوع قاب"
+
+#: gm3.php:506 gm3.php:527 gm3.php:551 gm3.php:592 gm3.php:626 gm3.php:650
+#: gm3.php:676 gm3.php:702 gm3.php:729
+msgid "Image width and height"
+msgstr "طول و عرض عکس"
+
+#: gm3.php:507 gm3.php:528 gm3.php:552 gm3.php:593 gm3.php:627 gm3.php:651
+#: gm3.php:677 gm3.php:703 gm3.php:730
+msgid "Width"
+msgstr "طول"
+
+#: gm3.php:508 gm3.php:529 gm3.php:553 gm3.php:594 gm3.php:628 gm3.php:652
+#: gm3.php:678 gm3.php:704 gm3.php:731
+msgid "Height"
+msgstr "عرض"
+
+#: gm3.php:516 gm3.php:539 gm3.php:563 gm3.php:604 gm3.php:638 gm3.php:661
+#: gm3.php:687 gm3.php:713 gm3.php:741
+msgid "Sample"
+msgstr "نمونه"
+
+#: gm3.php:572 gm3.php:573
+msgid "Image Title"
+msgstr "عنوان تصویر"
+
+#: gm3.php:574 gm3.php:584
+msgid "Font Size"
+msgstr "اندازه نوشته "
+
+#: gm3.php:581 gm3.php:583
+msgid "Image description"
+msgstr "توضیحات تصویر "
+
+#: gm3.php:612
+msgid "text top right"
+msgstr "نوشته بالا راست"
+
+#: gm3.php:613
+msgid "text top center"
+msgstr "نوشته بالا وسط"
+
+#: gm3.php:614
+msgid "text top left"
+msgstr "نوشته بالا چپ"
+
+#: gm3.php:616
+msgid "text center right"
+msgstr "نوشته وسط  راست"
+
+#: gm3.php:617
+msgid "text center center"
+msgstr "نوشته وسط  وسط"
+
+#: gm3.php:618
+msgid "text center left"
+msgstr "نوشته وسط  چپ"
+
+#: gm3.php:620
+msgid "text down right"
+msgstr "نوشته پایین   راست"
+
+#: gm3.php:621
+msgid "text down center"
+msgstr "نوشته پایین   وسط"
+
+#: gm3.php:622
+msgid "text down left"
+msgstr "نوشته پایین   چپ"
+
+#: gm3.php:723
+msgid "Brown effect"
+msgstr "جلوه  قهوه ای"
+
+#: gm3.php:750
+msgid "Gallery type"
+msgstr "نوع گالری"
+
+#: gm3.php:751
+msgid "Three rows"
+msgstr "سه ستونه "
+
+#: gm3.php:1146
+msgid "Photo imported"
+msgstr "عکس های اضافه شد"
+
+#: gm3.php:1155
+msgid "Import photos"
+msgstr "اضاف کردن عکس ها"
+
+#: gm3.php:1225
+msgid "Title"
+msgstr "عنوان"
+
+#: gm3.php:1229
+msgid "search"
+msgstr "جست و جو "
+
+#: gm3.php:1331
+msgid "Image added"
+msgstr "عکس های اضافه شد"
+
+#: gm3.php:1345
+msgid "Link copied"
+msgstr "لینک عکس کپی شد."
+
+#: gm3.php:1360
+msgid "new photos"
+msgstr "عکس های جدید "
+
+#. Plugin Name of the plugin/theme
+msgid "GM3 Online Photo Gallery"
+msgstr "گالری آنلاین عکس GM3"
+
+#. Plugin URI of the plugin/theme
+msgid "http://gm3.ir"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The online gallery of GM3 can easily find your own photos and upload in a "
+"free space..."
+msgstr ""
+"گالری آنلاین GM3 به راحتی عکس های مور نظر خود را پیدا کنید و در فضایی "
+"رایگان آپلود را انجام دهید "
+
+#. Author of the plugin/theme
+msgid "saiid mohsen sadat rasoll"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kingblack.ir/"
+msgstr ""

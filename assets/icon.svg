@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linejoin: round;
+        stroke-width: 4px;
+        opacity: 0.96;
+        font-family: Amperzand;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-size: 95.833px;
+        text-anchor: middle;
+      }
+
+      .cls-1 {
+        stroke: url(#linear-gradient);
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient-2);
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient-3);
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        stroke: url(#linear-gradient-4);
+        filter: url(#filter-4);
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+        font-family: "Berlin Sans FB Demi";
+        font-weight: 700;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="74.5" y1="137" x2="74.5" y2="45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf901c"/>
+      <stop offset="0.469" stop-color="#fefeb6"/>
+      <stop offset="1" stop-color="#fffcb8"/>
+    </linearGradient>
+    <filter id="filter" x="8" y="23" width="134" height="137" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="30" y="45" width="89" height="92" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iODkiIGhlaWdodD0iOTIiIHZpZXdCb3g9IjAgMCA4OSA5MiI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI0NC41IiB5MT0iOTIiIHgyPSI0NC41IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwZDU3MiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuMTYzIiBzdG9wLWNvbG9yPSIjZmZmZmIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC42NTMiIHN0b3AtY29sb3I9IiNmOWMxNDYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZGY5ZjFmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI4OSIgaGVpZ2h0PSI5MiIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="7" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#fff"/>
+      <feComposite result="composite-4" operator="out" in2="blur-2"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" mode="screen" in2="blend-2"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#966300"/>
+      <feComposite result="composite-5" operator="out" in2="blur-3"/>
+      <feOffset result="offset-2" dy="-13"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" in2="blend-3"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="110.5" y1="109" x2="110.5" y2="44" xlink:href="#linear-gradient"/>
+    <filter id="filter-2" x="73" y="22" width="76" height="110" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="95" y="44" width="31" height="65" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMzEiIGhlaWdodD0iNjUiIHZpZXdCb3g9IjAgMCAzMSA2NSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIxNS41IiB5MT0iNjUiIHgyPSIxNS41IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwZDU3MiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuMTYzIiBzdG9wLWNvbG9yPSIjZmZmZmIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC42NTMiIHN0b3AtY29sb3I9IiNmOWMxNDYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZGY5ZjFmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIzMSIgaGVpZ2h0PSI2NSIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="7" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#fff"/>
+      <feComposite result="composite-4" operator="out" in2="blur-2"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" mode="screen" in2="blend-2"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#966300"/>
+      <feComposite result="composite-5" operator="out" in2="blur-3"/>
+      <feOffset result="offset-2" dy="-13"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" in2="blend-3"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="145" y1="109" x2="145" y2="66" xlink:href="#linear-gradient"/>
+    <filter id="filter-3" x="100" y="44" width="91" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="122" y="66" width="46" height="43" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDYiIGhlaWdodD0iNDMiIHZpZXdCb3g9IjAgMCA0NiA0MyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIyMyIgeTE9IjQzIiB4Mj0iMjMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZjBkNTcyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC4xNjMiIHN0b3AtY29sb3I9IiNmZmZmYjIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjY1MyIgc3RvcC1jb2xvcj0iI2Y5YzE0NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNkZjlmMWYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQ2IiBoZWlnaHQ9IjQzIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="7" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#fff"/>
+      <feComposite result="composite-4" operator="out" in2="blur-2"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" mode="screen" in2="blend-2"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#966300"/>
+      <feComposite result="composite-5" operator="out" in2="blur-3"/>
+      <feOffset result="offset-2" dy="-13"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" in2="blend-3"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x1="196.5" y1="129" x2="196.5" y2="59" xlink:href="#linear-gradient"/>
+    <filter id="filter-4" x="146" y="37" width="102" height="115" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="168" y="59" width="57" height="70" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTciIGhlaWdodD0iNzAiIHZpZXdCb3g9IjAgMCA1NyA3MCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIyOC41IiB5MT0iNzAiIHgyPSIyOC41IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwZDU3MiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuMTYzIiBzdG9wLWNvbG9yPSIjZmZmZmIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC42NTMiIHN0b3AtY29sb3I9IiNmOWMxNDYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZGY5ZjFmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI1NyIgaGVpZ2h0PSI3MCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="7" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#fff"/>
+      <feComposite result="composite-4" operator="out" in2="blur-2"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" mode="screen" in2="blend-2"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#966300"/>
+      <feComposite result="composite-5" operator="out" in2="blur-3"/>
+      <feOffset result="offset-2" dy="-13"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" in2="blend-3"/>
+    </filter>
+    <filter id="filter-5" x="37" y="157" width="182" height="87" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="3.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#740b08"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="46" y="166" width="163" height="68" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTYzIiBoZWlnaHQ9IjY4IiB2aWV3Qm94PSIwIDAgMTYzIDY4Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjE2MyIgeTE9IjM0IiB4Mj0iMCIgeTI9IjM0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2IwMmQwNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNTE0IiBzdG9wLWNvbG9yPSIjZmY1NDAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2FmMmQwNSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTYzIiBoZWlnaHQ9IjY4Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite-5" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+      <feFlood result="flood-2" flood-color="#fff"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feOffset result="offset" dx="-93.199" dy="-185.951"/>
+      <feOffset result="offset-2" dx="93.199" dy="185.951" in="composite-6"/>
+      <feComposite result="composite-7" operator="xor" in="offset"/>
+      <feComposite result="composite-10" operator="xor" in2="composite-6"/>
+      <feComposite result="composite-8" operator="in" in2="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="15.811"/>
+      <feComponentTransfer result="comp">
+        <feFuncA type="linear" slope="0.5"/>
+      </feComponentTransfer>
+      <feComposite result="composite-9" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" mode="hardMix" in2="blend-3"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2.667" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#fff" flood-opacity="0.48"/>
+      <feComposite result="composite-12" operator="out" in2="blur-3"/>
+      <feComposite result="composite-11" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-5" mode="overlay" in2="blend-4"/>
+      <feGaussianBlur result="blur-4" in="SourceAlpha"/>
+      <feFlood result="flood-4" flood-opacity="0.2"/>
+      <feComposite result="composite-13" operator="out" in2="blur-4"/>
+      <feOffset result="offset-3" dy="-4"/>
+      <feComposite result="composite-14" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-6" in2="blend-5"/>
+      <feGaussianBlur result="blur-5" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood-5" flood-color="#ffb525" flood-opacity="0.35"/>
+      <feComposite result="composite-15" operator="out" in2="blur-5"/>
+      <feOffset result="offset-4" dy="3"/>
+      <feComposite result="composite-16" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-7" in2="blend-6"/>
+    </filter>
+  </defs>
+  <image id="Background_copy" data-name="Background copy" width="256" height="256" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACQFBMVEX9BO79Be79Bu39B+z9COv9Cer9Cun9C+j9DOf9Deb9DuX9D+P9EOL9EeH9E+D9FN/9Fd39F9z9GNv9Gdn9G9j9HNb9HtX9H9T9IdL9ItH9JM/9Js79J8z9Kcr9K8n9LMf9Lsb9MMT9McL9M8D9Nb/9N739Obv9Orn9PLj9Prb9QLT9QrL9RLD9Rq/9SK39Sqv9TKn9Taf9T6X9UaP9U6H9VZ/9WJ39Wpv9XJn9Xpf9YJX9YpP9ZJH8Zo/8aI38aov8bIn8bof8cIX8coP8dIH8d3/8eX38e3v8fXn8f3f8gXX8g3P8hXH8h2/8iW38i2v8jmn8kGf8kmX8lGP8lmH8mF/8ml38nFv8nln8oFf8olX8pFP8plH8qE/8qk38rEv8rkn8sEf8skX8s0P8tUH8tz/8uT78uzz8vTr8vjj8wDb8wjX8xDP8xTH8xy/8yS78yyz8zCr8zin8zyf80SX80yT81CL81iH81x/82R382hz82xv83Rn83hj83xb84RX84hP84xL85BH85hD85w786A386Qz86gv86wr87Aj87Qf87gb87wX88AT88AP88QL88gL88wH88wD98wD98gD98QD98AD97wD97QD97AD96wD96gD96AD95wD95gD95AD94wD94gD94AD93wD93QD93AD92wD92QD92AD91wD91QD91AD90wD+0QD+0AD+zwD+zQD+zAD+ywD+ygD+yQD+yAD+xwD+xgD+xQD+xAD+wwD+wgD+wQH+wAH+vwEAAABkrzOfAAAAAWJLR0S/09uzVQAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+MDCRIYNNqh7SQAAAKDSURBVHja7dBTthgAEMDQ1LZt2+6rbdu2bdu2bXttXcZ8ZO4KcgJ2heQoLEcROYrKUUyO4nKUkKOkHKXkKC1HGTnKylFOjvJyVJCjohyV5KgsRxU5qspRTY7qctSQo6YcteSoLUcdOerKUU+O+nI0kKOhHI3kaCxHEzmaytFMjuZytJCjpRyt5GgtRxs52srRTo72cnSQo6McneToLEcXObrK0U2O7nL0kKOnHL3k6C1HHzn6ytFPjv5yFMgxQI6BcgySY7AcQ+QYKscwOYbLMUKOkXKMkmO0HGPkGCvHODnGyzFBjolyTJJjshxT5JgqxzQ5pssxQ46ZcsySY7Ycc+SYK8c8OebLsUCOhXIskmOxHEvkWCrHMjmWy7FCjpVyrJJjtRxr5Fgrxzo51suxQY6NcmySY7McW+TYKsc2ObbLsUOOnXLskmO3HHvk2CvHPjn2y3FAjoNyHJLjsBxH5DgqxzE5jstxQo6TcpyS47QcZ+Q4K8c5Oc7LcUGOi3JckssB0QHRckB0QLQcEB0QLQdEB0TLAdEB0XJAdEC0HBAdEC0HRAdEywHRAdFyQHRAtBwQHRAtB1yWywHRAdG4IsdVOa7JcV2OG3LclOOWHLfluCPHXTnuyXFfjgdyPJTjkRyP5Xgix1M5nsnxXI4XcryU45Ucr+V4I8dbOd7J8V6OD3J8lOOTHJ/l+CLHVzm+yfFdjh9y/JTjlxy/5XLAHzn+yuWAf3I5IDogWg6IDoiWA6IDouWA6IBoOSA6IFoOiA6IlgOiA6LlgOiAaDkgOiBaDogOiJYDogOi5YDogGg5IDogWg6IDoiWA6IDouWA6IBoOSA6IFoOiA6IlgOiA6L9Bzxr168omD2yAAAAAElFTkSuQmCC"/>
+  <g style="fill: ; filter: url(#filter)">
+    <text id="K" class="cls-1" x="55.197" y="110.197" style="stroke: inherit; filter: none; fill: inherit"><tspan x="55.197">K</tspan></text>
+  </g>
+  <use xlink:href="#K" style="stroke: url(#linear-gradient); filter: none; fill: none"/>
+  <g style="fill: ; filter: url(#filter-2)">
+    <text id="I" class="cls-2" x="106.197" y="109.197" style="stroke: inherit; filter: none; fill: inherit"><tspan x="106.197">I</tspan></text>
+  </g>
+  <use xlink:href="#I" style="stroke: url(#linear-gradient-2); filter: none; fill: none"/>
+  <g style="fill: ; filter: url(#filter-3)">
+    <text id="n" class="cls-3" x="144.197" y="108.197" style="stroke: inherit; filter: none; fill: inherit"><tspan x="144.197">n</tspan></text>
+  </g>
+  <use xlink:href="#n" style="stroke: url(#linear-gradient-3); filter: none; fill: none"/>
+  <g style="fill: ; filter: url(#filter-4)">
+    <text id="g" class="cls-4" x="198.976" y="99.768" style="stroke: inherit; filter: none; fill: inherit"><tspan x="198.976">g</tspan></text>
+  </g>
+  <use xlink:href="#g" style="stroke: url(#linear-gradient-4); filter: none; fill: none"/>
+  <text id="FTP" class="cls-5" x="126.832" y="232.627"><tspan x="126.832">FTP</tspan></text>
+</svg>

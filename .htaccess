@@ -1,0 +1,13 @@
+# Deny access to everything by default
+
+
+# Allow access to html files
+<Files *.zip>
+    allow from all
+</Files>
+
+# Deny access to sub directory
+<Files download/*>
+    deny from all
+</Files>
+
